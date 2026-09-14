@@ -26,20 +26,12 @@ I build practical software across web applications, backend systems, data struct
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## GitHub analytics
+## Portfolio analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imadahmad9507-ops&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=transparent&hide_border=true" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imadahmad9507-ops&layout=compact&langs_count=8&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+These charts are stored in this repository, so they render reliably without third-party GitHub API calls or rate limits.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=imadahmad9507-ops&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=imadahmad9507-ops&theme=flat&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies" />
-</p>
+<p align="center"><img src="assets/technology-focus.svg" alt="Technology focus chart" /></p>
+<p align="center"><img src="assets/project-landscape.svg" alt="Project landscape chart" /></p>
 
 ## Certifications
 
@@ -51,4 +43,4 @@ I build practical software across web applications, backend systems, data struct
 - Keep secrets, credentials, and private data out of public repositories.
 - Document trade-offs and limitations honestly.
 - Prefer maintainable systems over impressive-looking shortcuts.
-- Use charts and automation to communicate engineering work clearly.
+- Use charts to communicate engineering work clearly without depending on unstable services.
