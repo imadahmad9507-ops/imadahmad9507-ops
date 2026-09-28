@@ -1,31 +1,31 @@
 # Hi, I'm Imad Ahmad 👋
 
-### Software Engineering Student | Full-Stack Developer | QA Engineer & Project Lead
+### Software Engineer | Transitioning into QA | Project Leadership | Future Project/Product Management
 
-I build practical software across web applications, backend systems, data structures, cybersecurity, and product prototypes. I also lead project delivery and hands-on quality assurance, from manual test planning and Playwright automation to evidence capture and final reporting.
+I am a software engineer moving toward quality assurance, bringing hands-on testing experience and project leadership across the applications I have built and worked on. I plan and perform manual testing, use Playwright for browser automation where applicable, document test cases and findings, assess severity and priority, and capture screenshots and recordings for project reports and submissions. I also coordinate project work through completion and am interested in growing toward project or product management.
 
 [![GitHub](https://img.shields.io/badge/GitHub-imadahmad9507--ops-181717?logo=github)](https://github.com/imadahmad9507-ops)
 [![Profile views](https://komarev.com/ghpvc/?username=imadahmad9507-ops&color=0e75b6)](https://github.com/imadahmad9507-ops)
 
-## Featured projects
+## Project portfolio and QA work
 
-| Project | What it demonstrates |
+| Project | QA work or engineering focus |
 |---|---|
-| [Calculator Hub](https://github.com/imadahmad9507-ops/calculator-hub) | CalcHub Pro precision calculators built with Next.js and TypeScript |
-| [CareSignal](https://github.com/imadahmad9507-ops/CareSignal) | Explainable health trend monitoring with Flask, SQLite, deterministic rules, charts, and safety-first AI wording |
+| [Calculator Hub](https://github.com/imadahmad9507-ops/calculator-hub) | Manual testing across multiple pages and Playwright automation; test cases, reports, and captured evidence. |
+| [CareSignal](https://github.com/imadahmad9507-ops/CareSignal) | Manual and Playwright testing, test cases, reports, and captured evidence. [Testing status](https://github.com/imadahmad9507-ops/CareSignal/blob/master/TESTING.md). |
 | [Banking System](https://github.com/imadahmad9507-ops/Banking-System) | Custom data structures, transactions, REST workflows, approvals, and undo/redo |
 | [Hospital Management System](https://github.com/imadahmad9507-ops/Hospital-Management-System) | PHP/MySQL patient and administration workflows |
 | [Smart Transportation System](https://github.com/imadahmad9507-ops/SmartTransportationSystem) | Java transportation domain modelling |
-| [CargoConnects](https://github.com/imadahmad9507-ops/CargoConnects) | Logistics product design, shipment tracking, and stakeholder portals |
+| [CargoConnects](https://github.com/imadahmad9507-ops/CargoConnects) | Manual and Playwright testing, test cases, final report, and captured evidence. |
 | [EnigmaSimulator](https://github.com/imadahmad9507-ops/EnigmaSimulator) | Cryptography education, rotor stepping, and block-cipher comparison |
-| [NeoBank](https://github.com/imadahmad9507-ops/NeoBank) | Data-structure-driven banking workflows |
-| [OASIS](https://github.com/imadahmad9507-ops/OASIS) | Healthcare scheduling and administrative workflows |
-| [BloodBank](https://github.com/imadahmad9507-ops/BloodBank) | Object-oriented inventory and patient management |
-| [ConnectMessenger](https://github.com/imadahmad9507-ops/ConnectMessenger) | React/FastAPI real-time communications prototype |
+| [NeoBank](https://github.com/imadahmad9507-ops/NeoBank) | Manual and Playwright testing, test cases, severity/priority assessment, final report, and captured evidence. |
+| [OASIS](https://github.com/imadahmad9507-ops/OASIS) | Manual testing, test cases, reports, and screenshot/screen-recording evidence. |
+| [BloodBank](https://github.com/imadahmad9507-ops/BloodBank) | Manual testing, test cases, reports, and screenshot/screen-recording evidence. |
+| [ConnectMessenger](https://github.com/imadahmad9507-ops/ConnectMessenger) | Manual testing across multiple pages and Playwright automation; test cases, reports, and captured evidence. |
 
-## Quality assurance and project leadership
+## QA and project leadership
 
-I have led and completed QA work across OASIS, Blood Bank, Cargo Connects, NeoBank, Calculator Hub, ConnectMessenger, and CareSignal. My testing and delivery work includes:
+I have led and coordinated project delivery while contributing hands-on QA across OASIS, Blood Bank, Cargo Connects, NeoBank, Calculator Hub, ConnectMessenger, and CareSignal. My testing and delivery work includes:
 
 - Manual testing across project workflows and multiple application pages.
 - Browser automation using Playwright where applicable.
@@ -33,6 +33,8 @@ I have led and completed QA work across OASIS, Blood Bank, Cargo Connects, NeoBa
 - Recording issue severity and priority to help teams address findings.
 - Capturing screenshots and screen recordings as test evidence.
 - Coordinating project work and submissions through completion.
+
+My software engineering background supports a transition into QA. Longer term, I am interested in growing toward project or product management.
 
 ## Technology focus
 
