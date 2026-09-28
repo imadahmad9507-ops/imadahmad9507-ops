@@ -36,6 +36,16 @@ I have led and coordinated project delivery while contributing hands-on QA acros
 
 My software engineering background supports a transition into QA. Longer term, I am interested in growing toward project or product management.
 
+## QA skill set
+
+- Manual testing
+- Automation testing
+- Playwright
+- Postman API testing
+- Test-case design and execution
+- Defect reporting, severity, and priority assessment
+- Screenshot and screen-recording evidence
+
 ## Technology focus
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
