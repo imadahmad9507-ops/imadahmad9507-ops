@@ -1,1 +1,45 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="330" viewBox="0 0 900 330" role="img" aria-labelledby="title desc"><title id="title">Technology focus</title><desc id="desc">Portfolio technology focus by project coverage</desc><rect width="900" height="330" rx="18" fill="#0d1117"/><text x="42" y="48" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="25" font-weight="700">Technology focus</text><text x="42" y="76" fill="#8b949e" font-family="Arial,sans-serif" font-size="14">Curated from the public project portfolio</text><g font-family="Arial,sans-serif" font-size="14" fill="#c9d1d9"><text x="42" y="119">Python</text><rect x="160" y="104" width="560" height="20" rx="10" fill="#21262d"/><rect x="160" y="104" width="470" height="20" rx="10" fill="#3776ab"/><text x="742" y="120">5 projects</text><text x="42" y="159">Java</text><rect x="160" y="144" width="560" height="20" rx="10" fill="#21262d"/><rect x="160" y="144" width="376" height="20" rx="10" fill="#ed8b00"/><text x="742" y="160">4 projects</text><text x="42" y="199">JavaScript</text><rect x="160" y="184" width="560" height="20" rx="10" fill="#21262d"/><rect x="160" y="184" width="282" height="20" rx="10" fill="#f0db4f"/><text x="742" y="200">3 projects</text><text x="42" y="239">PHP</text><rect x="160" y="224" width="560" height="20" rx="10" fill="#21262d"/><rect x="160" y="224" width="188" height="20" rx="10" fill="#777bb4"/><text x="742" y="240">2 projects</text><text x="42" y="279">SQL / databases</text><rect x="160" y="264" width="560" height="20" rx="10" fill="#21262d"/><rect x="160" y="264" width="470" height="20" rx="10" fill="#4479a1"/><text x="742" y="280">5 projects</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540" role="img" aria-labelledby="title desc">
+  <title id="title">Technology and QA toolkit</title>
+  <desc id="desc">Programming technology coverage by project, followed by QA tools and practices. QA bars are categorical and do not represent proficiency ratings.</desc>
+  <rect width="900" height="540" rx="18" fill="#0d1117"/>
+  <text x="42" y="48" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="25" font-weight="700">Technology &amp; QA toolkit</text>
+  <text x="42" y="76" fill="#8b949e" font-family="Arial,sans-serif" font-size="14">Technology bars show project coverage; QA bars list tools and practices, not ratings</text>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#c9d1d9">
+    <text x="42" y="119">Python</text>
+    <rect x="160" y="104" width="560" height="20" rx="10" fill="#21262d"/>
+    <rect x="160" y="104" width="470" height="20" rx="10" fill="#3776ab"/>
+    <text x="742" y="120">5 projects</text>
+    <text x="42" y="159">Java</text>
+    <rect x="160" y="144" width="560" height="20" rx="10" fill="#21262d"/>
+    <rect x="160" y="144" width="376" height="20" rx="10" fill="#ed8b00"/>
+    <text x="742" y="160">4 projects</text>
+    <text x="42" y="199">JavaScript</text>
+    <rect x="160" y="184" width="560" height="20" rx="10" fill="#21262d"/>
+    <rect x="160" y="184" width="282" height="20" rx="10" fill="#f0db4f"/>
+    <text x="742" y="200">3 projects</text>
+    <text x="42" y="239">PHP</text>
+    <rect x="160" y="224" width="560" height="20" rx="10" fill="#21262d"/>
+    <rect x="160" y="224" width="188" height="20" rx="10" fill="#777bb4"/>
+    <text x="742" y="240">2 projects</text>
+    <text x="42" y="279">SQL / databases</text>
+    <rect x="160" y="264" width="560" height="20" rx="10" fill="#21262d"/>
+    <rect x="160" y="264" width="470" height="20" rx="10" fill="#4479a1"/>
+    <text x="742" y="280">5 projects</text>
+  </g>
+  <text x="42" y="329" fill="#f0f6fc" font-family="Arial,sans-serif" font-size="18" font-weight="700">QA tools &amp; practices</text>
+  <text x="42" y="352" fill="#8b949e" font-family="Arial,sans-serif" font-size="13">Listed as skills used; equal bars do not indicate relative proficiency</text>
+  <g font-family="Arial,sans-serif" font-size="14" fill="#c9d1d9">
+    <text x="42" y="394">Playwright</text>
+    <rect x="250" y="379" width="500" height="20" rx="10" fill="#21262d"/>
+    <rect x="250" y="379" width="500" height="20" rx="10" fill="#2ea043"/>
+    <text x="42" y="434">Postman</text>
+    <rect x="250" y="419" width="500" height="20" rx="10" fill="#21262d"/>
+    <rect x="250" y="419" width="500" height="20" rx="10" fill="#ff7b72"/>
+    <text x="42" y="474">Manual testing</text>
+    <rect x="250" y="459" width="500" height="20" rx="10" fill="#21262d"/>
+    <rect x="250" y="459" width="500" height="20" rx="10" fill="#a371f7"/>
+    <text x="42" y="514">Automation testing</text>
+    <rect x="250" y="499" width="500" height="20" rx="10" fill="#21262d"/>
+    <rect x="250" y="499" width="500" height="20" rx="10" fill="#58a6ff"/>
+  </g>
+</svg>

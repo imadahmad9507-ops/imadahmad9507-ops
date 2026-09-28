@@ -54,7 +54,7 @@ My software engineering background supports a transition into QA. Longer term, I
 
 These charts are stored in this repository, so they render reliably without third-party GitHub API calls or rate limits.
 
-<p align="center"><img src="assets/technology-focus.svg" alt="Technology focus chart" /></p>
+<p align="center"><img src="assets/technology-focus.svg" alt="Technology project coverage and QA tools and practices, including Playwright, Postman, manual testing, and automation testing" /></p>
 <p align="center"><img src="assets/project-landscape.svg" alt="Project landscape chart" /></p>
 
 ## Certifications
