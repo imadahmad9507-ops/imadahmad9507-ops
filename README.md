@@ -1,8 +1,8 @@
 # Hi, I'm Imad Ahmad 👋
 
-### Software Engineering Student | Full-Stack Developer | Systems Builder
+### Software Engineering Student | Full-Stack Developer | QA Engineer & Project Lead
 
-I build practical software across web applications, backend systems, data structures, cybersecurity, and product prototypes. My focus is clear architecture, explainable behavior, reliable workflows, and useful user experiences.
+I build practical software across web applications, backend systems, data structures, cybersecurity, and product prototypes. I also lead project delivery and hands-on quality assurance, from manual test planning and Playwright automation to evidence capture and final reporting.
 
 [![GitHub](https://img.shields.io/badge/GitHub-imadahmad9507--ops-181717?logo=github)](https://github.com/imadahmad9507-ops)
 [![Profile views](https://komarev.com/ghpvc/?username=imadahmad9507-ops&color=0e75b6)](https://github.com/imadahmad9507-ops)
@@ -11,6 +11,7 @@ I build practical software across web applications, backend systems, data struct
 
 | Project | What it demonstrates |
 |---|---|
+| [Calculator Hub](https://github.com/imadahmad9507-ops/calculator-hub) | CalcHub Pro precision calculators built with Next.js and TypeScript |
 | [CareSignal](https://github.com/imadahmad9507-ops/CareSignal) | Explainable health trend monitoring with Flask, SQLite, deterministic rules, charts, and safety-first AI wording |
 | [Banking System](https://github.com/imadahmad9507-ops/Banking-System) | Custom data structures, transactions, REST workflows, approvals, and undo/redo |
 | [Hospital Management System](https://github.com/imadahmad9507-ops/Hospital-Management-System) | PHP/MySQL patient and administration workflows |
@@ -21,6 +22,17 @@ I build practical software across web applications, backend systems, data struct
 | [OASIS](https://github.com/imadahmad9507-ops/OASIS) | Healthcare scheduling and administrative workflows |
 | [BloodBank](https://github.com/imadahmad9507-ops/BloodBank) | Object-oriented inventory and patient management |
 | [ConnectMessenger](https://github.com/imadahmad9507-ops/ConnectMessenger) | React/FastAPI real-time communications prototype |
+
+## Quality assurance and project leadership
+
+I have led and completed QA work across OASIS, Blood Bank, Cargo Connects, NeoBank, Calculator Hub, ConnectMessenger, and CareSignal. My testing and delivery work includes:
+
+- Manual testing across project workflows and multiple application pages.
+- Browser automation using Playwright where applicable.
+- Writing test cases and documenting results in final reports.
+- Recording issue severity and priority to help teams address findings.
+- Capturing screenshots and screen recordings as test evidence.
+- Coordinating project work and submissions through completion.
 
 ## Technology focus
 
